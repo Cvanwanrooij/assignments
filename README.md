@@ -9,4 +9,4 @@ This repository contains my assignments
 
 [assignment 5](https://github.com/Cvanwanrooij/assignments/blob/master/Graded_assignment1.ipynb)
 
-[assignment 6](https://github.com/Cvanwanrooij/assignments/blob/master/Graded_assignment2.ipynb)
+[assignment 6](https://github.com/Cvanwanrooij/assignments/blob/master/Graded_assignment_2.ipynb)
